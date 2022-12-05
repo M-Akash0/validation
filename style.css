@@ -1,0 +1,22 @@
+.container{
+    justify-content: center;
+     align-items: center;
+    margin-top: 5rem; 
+}
+.req{
+    text-align: center;
+    margin-bottom: 3rem;
+}
+.btn{
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+ 
+.sub{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 2rem;
+    color: green;
+}
